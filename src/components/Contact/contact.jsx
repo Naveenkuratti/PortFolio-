@@ -35,7 +35,7 @@ const Contact = () => {
         <div>
             <section id='contactPage'>
             <div id="clients">
-                    <h1 className='contactPageTitle'>My Clients</h1>
+            <h1 className='contactPageTitle'>My Clients</h1>
                     <p className='clientDesc'>I have had the pleasure of working with some great clients.</p>
                     <div className="clientImgs">
                         <img src={Walmart} alt="Walmart" className="clientImg" />
